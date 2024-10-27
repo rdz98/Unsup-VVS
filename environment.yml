@@ -1,0 +1,10 @@
+name: bci
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch-cuda=12.1
+  - pytorch==2.2.2
+  - torchaudio==2.2.2
+  - torchvision==0.17.2
+prefix: /home/root/anaconda3/envs/bci

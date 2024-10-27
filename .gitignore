@@ -1,0 +1,8 @@
+*__pycache__*
+/.idea
+/checkpoint/*
+!/checkpoint/.gitkeep
+/data/*
+!/data/.gitkeep
+/brain_score/*
+!/brain_score/.gitkeep
